@@ -7,13 +7,17 @@ This study proposes an efficient method for real-time measurement of individual 
 
 ## 📂 Datasets
 
-To find the dataset used in this study, please make sure all files are downloaded from:  
+To access the **datasets and code** used in this study, please ensure that all files are downloaded from the following Baidu Netdisk link: 
 [https://pan.baidu.com/s/1GE6RwonapwJBAZsYfEIPag ](https://pan.baidu.com/s/1pRvhmdDGknYV9OSbhoP4nw) 
 Extraction code：please email at 1395401554@qq.com
 
 Examples of the Daytime and Night-time datasets are shown below:
 
 <img width="525" height="454" alt="image" src="https://github.com/user-attachments/assets/e0464c08-4943-4cf0-b5ab-222e00d1e9d4" />
+
+A pseudocode overview of the proposed method is provided below:
+<img width="600" height="750" alt="伪代码" src="https://github.com/user-attachments/assets/e4cd9b42-b798-4e1e-9f65-a5b1afc27062" />
+
 
 ## 🧩 Method — Egg–Goose Matching
 
